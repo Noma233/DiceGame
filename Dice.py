@@ -9,3 +9,10 @@ print("Die 2: ", x2)
 
 print("Total value: ", x1 + x2)
 
+if x1 + x2 > 7:
+	print(name, 'win!')
+
+else:
+	print(name, 'lost.')
+
+	
